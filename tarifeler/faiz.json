@@ -1,0 +1,289 @@
+{
+ "surum": "2026-10-06",
+ "tarife": {
+  "ad": "Yasal faiz ve ticari temerrüt (avans) faizi — 3095 s. Kanun",
+  "rg": "7589 s.K. m.10 — RG 31.07.2026 / 33326 (yasal faizin yeni belirlenme usulü)",
+  "kaynak": "https://www.tcmb.gov.tr/wps/wcm/connect/TR/TCMB+TR/Main+Menu/Temel+Faaliyetler/Para+Politikasi/Reeskont+ve+Avans+Faiz+Oranlari",
+  "kontrol": "2026-10-06"
+ },
+ "kural": {
+  "esik": 0.05,
+  "yasal_carpan": 0.8,
+  "yasal_kural_ilk_yil": 2027,
+  "ticari_ilk_yil": 2006
+ },
+ "yasal": [
+  {
+   "baslangic": "2006-01-01",
+   "oran": 0.09,
+   "kaynak": "BKK 2005/9831 — RG 30.12.2005 / 26039"
+  },
+  {
+   "baslangic": "2024-06-01",
+   "oran": 0.24,
+   "kaynak": "CBK 8485 — RG 21.05.2024 / 32552"
+  },
+  {
+   "baslangic": "2026-07-31",
+   "oran": 0.31,
+   "kaynak": "7589 s.K. m.10 — 31.12.2025 reeskont %38,75 × 0,80"
+  }
+ ],
+ "tcmb": [
+  {
+   "tarih": "1990-01-01",
+   "reeskont": 0.4,
+   "avans": 0.45
+  },
+  {
+   "tarih": "1990-09-20",
+   "reeskont": 0.43,
+   "avans": 0.4825
+  },
+  {
+   "tarih": "1990-11-23",
+   "reeskont": 0.45,
+   "avans": 0.5075
+  },
+  {
+   "tarih": "1991-02-15",
+   "reeskont": 0.48,
+   "avans": 0.545
+  },
+  {
+   "tarih": "1994-01-27",
+   "reeskont": 0.56,
+   "avans": 0.65
+  },
+  {
+   "tarih": "1994-04-21",
+   "reeskont": 0.79,
+   "avans": 0.98
+  },
+  {
+   "tarih": "1994-07-12",
+   "reeskont": 0.7,
+   "avans": 0.85
+  },
+  {
+   "tarih": "1994-07-27",
+   "reeskont": 0.63,
+   "avans": 0.75
+  },
+  {
+   "tarih": "1994-10-01",
+   "reeskont": 0.55,
+   "avans": 0.64
+  },
+  {
+   "tarih": "1995-06-10",
+   "reeskont": 0.52,
+   "avans": 0.6
+  },
+  {
+   "tarih": "1995-08-01",
+   "reeskont": 0.5,
+   "avans": 0.57
+  },
+  {
+   "tarih": "1997-08-02",
+   "reeskont": 0.67,
+   "avans": 0.8
+  },
+  {
+   "tarih": "1999-12-30",
+   "reeskont": 0.6,
+   "avans": 0.7
+  },
+  {
+   "tarih": "2002-05-17",
+   "reeskont": 0.55,
+   "avans": 0.64
+  },
+  {
+   "tarih": "2003-06-14",
+   "reeskont": 0.5,
+   "avans": 0.57
+  },
+  {
+   "tarih": "2003-10-08",
+   "reeskont": 0.43,
+   "avans": 0.48
+  },
+  {
+   "tarih": "2004-06-15",
+   "reeskont": 0.38,
+   "avans": 0.42
+  },
+  {
+   "tarih": "2005-01-13",
+   "reeskont": 0.32,
+   "avans": 0.35
+  },
+  {
+   "tarih": "2005-05-25",
+   "reeskont": 0.28,
+   "avans": 0.3
+  },
+  {
+   "tarih": "2005-12-20",
+   "reeskont": 0.23,
+   "avans": 0.25
+  },
+  {
+   "tarih": "2006-12-20",
+   "reeskont": 0.27,
+   "avans": 0.29
+  },
+  {
+   "tarih": "2007-12-28",
+   "reeskont": 0.25,
+   "avans": 0.27
+  },
+  {
+   "tarih": "2009-04-09",
+   "reeskont": 0.19,
+   "avans": 0.2
+  },
+  {
+   "tarih": "2009-06-12",
+   "reeskont": 0.18,
+   "avans": 0.19
+  },
+  {
+   "tarih": "2009-12-22",
+   "reeskont": 0.15,
+   "avans": 0.16
+  },
+  {
+   "tarih": "2010-12-30",
+   "reeskont": 0.14,
+   "avans": 0.15
+  },
+  {
+   "tarih": "2011-12-29",
+   "reeskont": 0.17,
+   "avans": 0.1775
+  },
+  {
+   "tarih": "2012-06-19",
+   "reeskont": 0.16,
+   "avans": 0.165
+  },
+  {
+   "tarih": "2012-12-20",
+   "reeskont": 0.135,
+   "avans": 0.1375
+  },
+  {
+   "tarih": "2013-06-21",
+   "reeskont": 0.095,
+   "avans": 0.11
+  },
+  {
+   "tarih": "2013-12-27",
+   "reeskont": 0.1025,
+   "avans": 0.1175
+  },
+  {
+   "tarih": "2014-12-14",
+   "reeskont": 0.09,
+   "avans": 0.105
+  },
+  {
+   "tarih": "2016-12-31",
+   "reeskont": 0.0875,
+   "avans": 0.0975
+  },
+  {
+   "tarih": "2018-06-29",
+   "reeskont": 0.185,
+   "avans": 0.195
+  },
+  {
+   "tarih": "2019-10-11",
+   "reeskont": 0.1725,
+   "avans": 0.1825
+  },
+  {
+   "tarih": "2019-12-21",
+   "reeskont": 0.1275,
+   "avans": 0.1375
+  },
+  {
+   "tarih": "2020-06-13",
+   "reeskont": 0.09,
+   "avans": 0.1
+  },
+  {
+   "tarih": "2020-12-19",
+   "reeskont": 0.1575,
+   "avans": 0.1675
+  },
+  {
+   "tarih": "2021-12-31",
+   "reeskont": 0.1475,
+   "avans": 0.1575
+  },
+  {
+   "tarih": "2022-12-31",
+   "reeskont": 0.0975,
+   "avans": 0.1075
+  },
+  {
+   "tarih": "2023-06-24",
+   "reeskont": 0.1575,
+   "avans": 0.1675
+  },
+  {
+   "tarih": "2023-09-01",
+   "reeskont": 0.2575,
+   "avans": 0.2675
+  },
+  {
+   "tarih": "2023-09-28",
+   "reeskont": 0.3075,
+   "avans": 0.3175
+  },
+  {
+   "tarih": "2023-11-01",
+   "reeskont": 0.3575,
+   "avans": 0.3675
+  },
+  {
+   "tarih": "2023-12-01",
+   "reeskont": 0.4075,
+   "avans": 0.4175
+  },
+  {
+   "tarih": "2023-12-23",
+   "reeskont": 0.4325,
+   "avans": 0.4425
+  },
+  {
+   "tarih": "2024-04-01",
+   "reeskont": 0.5075,
+   "avans": 0.5175
+  },
+  {
+   "tarih": "2024-12-28",
+   "reeskont": 0.4825,
+   "avans": 0.4925
+  },
+  {
+   "tarih": "2025-03-08",
+   "reeskont": 0.4325,
+   "avans": 0.4425
+  },
+  {
+   "tarih": "2025-09-17",
+   "reeskont": 0.4125,
+   "avans": 0.4225
+  },
+  {
+   "tarih": "2025-12-20",
+   "reeskont": 0.3875,
+   "avans": 0.3975
+  }
+ ]
+}

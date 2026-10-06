@@ -1,0 +1,300 @@
+{
+ "surum": "2026-10-06",
+ "beklenen_guncelleme": "2026-11-20",
+ "tarife": {
+  "ad": "Avukatlık Asgari Ücret Tarifesi (2025-2026)",
+  "rg": "RG 04.11.2025 / 33067",
+  "yururluk": "2025-11-04",
+  "degisiklikler": [
+   "RG 08.01.2026 / 33131: m.10/2 yürürlükten kaldırıldı",
+   "RG 28.03.2026 / 33207: m.14/5 değiştirildi"
+  ],
+  "kaynak": "https://www.resmigazete.gov.tr/eskiler/2025/11/20251104-9.htm",
+  "ek_kaynak": "https://www.resmigazete.gov.tr/eskiler/2025/11/20251104-9-1.pdf",
+  "kontrol": "2026-10-06"
+ },
+ "dilimler": [
+  {
+   "ust": 600000,
+   "oran": 0.16
+  },
+  {
+   "ust": 1200000,
+   "oran": 0.15
+  },
+  {
+   "ust": 2400000,
+   "oran": 0.14
+  },
+  {
+   "ust": 3600000,
+   "oran": 0.13
+  },
+  {
+   "ust": 5400000,
+   "oran": 0.11
+  },
+  {
+   "ust": 7800000,
+   "oran": 0.08
+  },
+  {
+   "ust": 10800000,
+   "oran": 0.05
+  },
+  {
+   "ust": 14400000,
+   "oran": 0.03
+  },
+  {
+   "ust": 18600000,
+   "oran": 0.02
+  },
+  {
+   "ust": null,
+   "oran": 0.01
+  }
+ ],
+ "yargi_yerleri": [
+  {
+   "grup": "Hukuk",
+   "kod": "asliye",
+   "ad": "Asliye mahkemeleri (hukuk, ticaret, iş, aile)",
+   "maktu": 45000,
+   "sira": "2. Kısım 2. Bölüm 10"
+  },
+  {
+   "grup": "Hukuk",
+   "kod": "sulh",
+   "ad": "Sulh hukuk mahkemesi",
+   "maktu": 30000,
+   "sira": "2. Kısım 2. Bölüm 8"
+  },
+  {
+   "grup": "Hukuk",
+   "kod": "tuketici",
+   "ad": "Tüketici mahkemesi",
+   "maktu": 22500,
+   "sira": "2. Kısım 2. Bölüm 11"
+  },
+  {
+   "grup": "Hukuk",
+   "kod": "fsh",
+   "ad": "Fikri ve sınai haklar mahkemesi",
+   "maktu": 55000,
+   "sira": "2. Kısım 2. Bölüm 12"
+  },
+  {
+   "grup": "Hukuk",
+   "kod": "ortaklik",
+   "ad": "Ortaklığın giderilmesi ve taksim davası (maktu)",
+   "maktu": 40000,
+   "sira": "2. Kısım 1. Bölüm 3",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Hukuk",
+   "kod": "kredi_uyarlama",
+   "ad": "Tüketici — kredi taksiti/faiz uyarlama davası (maktu)",
+   "maktu": 20000,
+   "sira": "2. Kısım 1. Bölüm 5",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Hukuk",
+   "kod": "bam_ilk",
+   "ad": "Bölge adliye/idare mahkemesi — ilk derece",
+   "maktu": 35000,
+   "sira": "2. Kısım 2. Bölüm 18-a"
+  },
+  {
+   "grup": "Kanun yolu",
+   "kod": "istinaf_1",
+   "ad": "İstinaf — tek duruşmalı iş",
+   "maktu": 22000,
+   "sira": "2. Kısım 2. Bölüm 18-b",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Kanun yolu",
+   "kod": "istinaf_2",
+   "ad": "İstinaf — birden fazla duruşma/keşif",
+   "maktu": 42000,
+   "sira": "2. Kısım 2. Bölüm 18-c",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Kanun yolu",
+   "kod": "temyiz_durusma",
+   "ad": "Yargıtay/Danıştay/Sayıştay — temyiz duruşması",
+   "maktu": 40000,
+   "sira": "2. Kısım 2. Bölüm 22",
+   "hep_maktu": true
+  },
+  {
+   "grup": "İcra",
+   "kod": "icra_takip",
+   "ad": "İcra dairesi — takip",
+   "maktu": 9000,
+   "sira": "2. Kısım 2. Bölüm 1",
+   "ozel": "icra"
+  },
+  {
+   "grup": "İcra",
+   "kod": "icra_mah_is",
+   "ad": "İcra mahkemesi — işler (duruşmasız)",
+   "maktu": 11000,
+   "sira": "2. Kısım 2. Bölüm 2 · m.11/3",
+   "hep_maktu": true
+  },
+  {
+   "grup": "İcra",
+   "kod": "icra_mah_dava",
+   "ad": "İcra mahkemesi — dava ve duruşmalı işler",
+   "maktu": 18000,
+   "sira": "2. Kısım 2. Bölüm 3 · m.11/3",
+   "hep_maktu": true
+  },
+  {
+   "grup": "İcra",
+   "kod": "istihkak",
+   "ad": "İcra mahkemesi — istihkak davası",
+   "maktu": 18000,
+   "sira": "2. Kısım 2. Bölüm 3 · m.11/3"
+  },
+  {
+   "grup": "İcra",
+   "kod": "tahliye_takip",
+   "ad": "Tahliyeye ilişkin icra takibi (maktu)",
+   "maktu": 20000,
+   "sira": "2. Kısım 2. Bölüm 4",
+   "hep_maktu": true,
+   "ozel": "icra"
+  },
+  {
+   "grup": "İcra",
+   "kod": "icra_ceza",
+   "ad": "İcra mahkemesi — ceza işleri (maktu)",
+   "maktu": 15000,
+   "sira": "2. Kısım 2. Bölüm 5",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Arabuluculuk / hakem",
+   "kod": "arabulucu",
+   "ad": "Dava şartı arabuluculuk",
+   "maktu": 8000,
+   "sira": "1. Kısım 1. Bölüm 6 · m.16/2",
+   "ozel": "arabuluculuk"
+  },
+  {
+   "grup": "Arabuluculuk / hakem",
+   "kod": "thh",
+   "ad": "Tüketici hakem heyeti",
+   "maktu": 7000,
+   "sira": "1. Kısım 2. Bölüm 6",
+   "ozel": "thh"
+  },
+  {
+   "grup": "İdari yargı",
+   "kod": "idare_durusmasiz",
+   "ad": "İdare / vergi mahkemesi — duruşmasız",
+   "maktu": 30000,
+   "sira": "2. Kısım 2. Bölüm 17-a"
+  },
+  {
+   "grup": "İdari yargı",
+   "kod": "idare_durusmali",
+   "ad": "İdare / vergi mahkemesi — duruşmalı",
+   "maktu": 40000,
+   "sira": "2. Kısım 2. Bölüm 17-b"
+  },
+  {
+   "grup": "İdari yargı",
+   "kod": "danistay_durusmasiz",
+   "ad": "Danıştay ilk derece — duruşmasız",
+   "maktu": 40000,
+   "sira": "2. Kısım 2. Bölüm 21-a"
+  },
+  {
+   "grup": "İdari yargı",
+   "kod": "danistay_durusmali",
+   "ad": "Danıştay ilk derece — duruşmalı",
+   "maktu": 65000,
+   "sira": "2. Kısım 2. Bölüm 21-b"
+  },
+  {
+   "grup": "Ceza",
+   "kod": "sorusturma",
+   "ad": "Ceza soruşturma evresi",
+   "maktu": 11000,
+   "sira": "2. Kısım 2. Bölüm 7",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Ceza",
+   "kod": "sulh_ceza",
+   "ad": "Sulh ceza / infaz hâkimliği",
+   "maktu": 18000,
+   "sira": "2. Kısım 2. Bölüm 9",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Ceza",
+   "kod": "asliye_ceza",
+   "ad": "Asliye ceza mahkemesi",
+   "maktu": 45000,
+   "sira": "2. Kısım 2. Bölüm 10",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Ceza",
+   "kod": "agir_ceza",
+   "ad": "Ağır ceza mahkemesi",
+   "maktu": 65000,
+   "sira": "2. Kısım 2. Bölüm 13",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Ceza",
+   "kod": "cocuk",
+   "ad": "Çocuk mahkemesi",
+   "maktu": 45000,
+   "sira": "2. Kısım 2. Bölüm 14",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Ceza",
+   "kod": "cocuk_agir",
+   "ad": "Çocuk ağır ceza mahkemesi",
+   "maktu": 65000,
+   "sira": "2. Kısım 2. Bölüm 15",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Anayasa Mahkemesi",
+   "kod": "aym_durusmasiz",
+   "ad": "AYM bireysel başvuru — duruşmasız",
+   "maktu": 40000,
+   "sira": "2. Kısım 2. Bölüm 24-b",
+   "hep_maktu": true
+  },
+  {
+   "grup": "Anayasa Mahkemesi",
+   "kod": "aym_durusmali",
+   "ad": "AYM bireysel başvuru — duruşmalı",
+   "maktu": 80000,
+   "sira": "2. Kısım 2. Bölüm 24-b",
+   "hep_maktu": true
+  }
+ ],
+ "icra": {
+  "maktu_esigi": 56250,
+  "odeme_suresinde_carpan": 0.75
+ },
+ "arabuluculuk": {
+  "anlasma_carpani": 1.25,
+  "maktu_esigi": 50000,
+  "anlasmama": 8000
+ }
+}

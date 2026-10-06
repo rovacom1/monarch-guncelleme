@@ -1,6 +1,6 @@
 {
- "surum": "2026-10-06",
- "beklenen_guncelleme": "2027-01-05",
+ "surum": "2026-10-06.1",
+ "beklenen_guncelleme": "2026-11-05",
  "tarife": {
   "ad": "Harçlar Kanunu (1) sayılı tarife — 2026",
   "rg": "RG 31.12.2025 / 33124 (5. Mük.) — Harçlar Kanunu Genel Tebliği Seri No: 98",
@@ -77,5 +77,6 @@
   "sabit": 530.0,
   "tebligat_ucreti": 300.0,
   "tebligat_kaynak": "PTT tebligat ücreti (normal, 100 gr) — 01.10.2026"
- }
+ },
+ "beklenen_not": "HMK gider avansı tarifesi her yıl Ekim sonu (2024: 23.10, 2025: 28.10); harçlar Aralık sonu. Gider avansı yenilenince bunu 2027-01-05 yap."
 }

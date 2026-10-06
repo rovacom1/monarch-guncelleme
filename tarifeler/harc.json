@@ -1,0 +1,81 @@
+{
+ "surum": "2026-10-06",
+ "beklenen_guncelleme": "2027-01-05",
+ "tarife": {
+  "ad": "Harçlar Kanunu (1) sayılı tarife — 2026",
+  "rg": "RG 31.12.2025 / 33124 (5. Mük.) — Harçlar Kanunu Genel Tebliği Seri No: 98",
+  "yururluk": "2026-01-01",
+  "kaynak": "https://www.resmigazete.gov.tr/eskiler/2025/12/20251231M5-28.pdf",
+  "kontrol": "2026-10-06"
+ },
+ "basvurma": [
+  {
+   "kod": "sulh",
+   "ad": "Sulh hukuk mahkemesi",
+   "tutar": 335.2
+  },
+  {
+   "kod": "asliye",
+   "ad": "Asliye mahkemeleri (hukuk, ticaret, iş, aile, tüketici, FSH)",
+   "tutar": 732.0
+  },
+  {
+   "kod": "icra_mah",
+   "ad": "İcra mahkemesi",
+   "tutar": 335.2
+  },
+  {
+   "kod": "idare",
+   "ad": "İdare / vergi mahkemesi",
+   "tutar": 732.0,
+   "idari": true
+  },
+  {
+   "kod": "bam",
+   "ad": "Bölge adliye / bölge idare (ilk derece)",
+   "tutar": 1124.5
+  }
+ ],
+ "karar_ilam": {
+  "nispi_oran": 0.06831,
+  "pesin_pay": 0.25,
+  "pesin_pay_olum_cismani": 0.05,
+  "maktu": 732.0,
+  "not": "Peşin harç, maktu karar ve ilam harcından az olamaz (492 s.K. m.28/a; uygulama)"
+ },
+ "kanun_yolu": {
+  "istinaf_basvuru": 2002.0,
+  "temyiz_basvuru": 3608.5,
+  "karar_harci_maktu": 732.0
+ },
+ "vekalet": {
+  "suret_harci": 104.0,
+  "pul": 164.0,
+  "pul_kaynak": "TBB Duyuru 2025/71"
+ },
+ "icra": {
+  "basvurma": 732.0,
+  "pesin_oran_ilamsiz": 0.005,
+  "tahsil": [
+   {
+    "ad": "Hacizden önce ödeme",
+    "oran": 0.0455
+   },
+   {
+    "ad": "Hacizden sonra, satıştan önce",
+    "oran": 0.091
+   },
+   {
+    "ad": "Satış yoluyla tahsil",
+    "oran": 0.1138
+   }
+  ]
+ },
+ "gider_avansi": {
+  "kaynak": "HMK Gider Avansı Tarifesi m.4 — RG 28.10.2025 / 33061",
+  "taraf_basina_tebligat": 5,
+  "sabit": 530.0,
+  "tebligat_ucreti": 300.0,
+  "tebligat_kaynak": "PTT tebligat ücreti (normal, 100 gr) — 01.10.2026"
+ }
+}

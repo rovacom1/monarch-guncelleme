@@ -1,8 +1,8 @@
 {
- "surum": "2026-10-06.1",
+ "surum": "2026-10-06.3",
  "beklenen_guncelleme": "2026-11-20",
  "tarife": {
-  "ad": "Avukatlık Asgari Ücret Tarifesi (2025-2026)",
+  "ad": "AAÜT 2025-2026",
   "rg": "RG 04.11.2025 / 33067",
   "yururluk": "2025-11-04",
   "degisiklikler": [
@@ -296,14 +296,5 @@
   "anlasma_carpani": 1.25,
   "maktu_esigi": 50000,
   "anlasmama": 8000
- },
- "smm": {
-  "kdv": 0.2,
-  "stopaj": 0.2,
-  "kaynak": "KDV %20 (CBK 7346, 10.07.2023); gelir vergisi stopajı %20 (GVK m.94/2-b)",
-  "kdv_secenekler": [
-   0.2,
-   0.1
-  ]
  }
 }
